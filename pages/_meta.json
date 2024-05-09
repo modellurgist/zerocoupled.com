@@ -1,9 +1,54 @@
 {
-  "index": "Overview",
-  "1_key_points": "Key Points - short phrases",
-  "2_compact": "Compact - several lines",
-  "3_expanded": "Expanded - less than a page",
-  "4_detailed": "Detailed - whatever needed",
+  "index": {
+    "title": "Overview",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "1_key_points": {
+    "title": "Key Points - short phrases",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "2_compact": {
+    "title": "Compact - several lines",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "3_expanded": {
+    "title": "Expanded - less than a page",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "4_detailed": {
+    "title": "Detailed - whatever needed",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
   "about": {
     "title": "About",
     "type": "page"
