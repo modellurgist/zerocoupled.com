@@ -1,7 +1,9 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Overview",
+  "1_key_points": "Key Points - short phrases",
+  "2_compact": "Compact - several lines",
+  "3_expanded": "Expanded - less than a page",
+  "4_detailed": "Detailed - whatever needed",
   "about": {
     "title": "About",
     "type": "page"
