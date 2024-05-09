@@ -2,16 +2,13 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Zero-Coupled Architecture (ALA)</span>,
+  logo: <span>Zero Coupled Architecture (ALA)</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/modellurgist/zerocoupled.com',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/modellurgist/zerocoupled.com',
   footer: {
-    text: 'Nextra Docs Template',
+    text: '© 2024 Tom Calloway (github.com/modellurgist)',
   },
 }
 
